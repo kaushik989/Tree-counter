@@ -1,6 +1,6 @@
 # Hi, I'm Kousikarvind! 👋
 
-## 🤖 My Tree-Counter Projects
+## 🤖 My Tree-Counter Project
 I host my active models, datasets, and spaces on Hugging Face.
 * 🔗 **[View My Hugging Face flora-tree-counter project](https://huggingface.co/spaces/kaushik137/flora-tree-counter)**
 
